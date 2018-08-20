@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOGen", "PocoGen\POCOGen.csproj", "{CC878827-B5C8-4919-A91A-84BCEBD0C904}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonUtils", "CommonUtils\CommonUtils.csproj", "{F733079B-4BAB-4FCF-A31A-AB43A3B65CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC878827-B5C8-4919-A91A-84BCEBD0C904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC878827-B5C8-4919-A91A-84BCEBD0C904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC878827-B5C8-4919-A91A-84BCEBD0C904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC878827-B5C8-4919-A91A-84BCEBD0C904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F733079B-4BAB-4FCF-A31A-AB43A3B65CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F733079B-4BAB-4FCF-A31A-AB43A3B65CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F733079B-4BAB-4FCF-A31A-AB43A3B65CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F733079B-4BAB-4FCF-A31A-AB43A3B65CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D801681F-948A-4F30-ACFE-49E5D150D368}
+	EndGlobalSection
+EndGlobal
